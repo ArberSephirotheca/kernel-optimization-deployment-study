@@ -17,6 +17,7 @@ data/github/
 deep-study/data/cache/
 deep-study/data/src/
 kernel-lineage-study/cache/
+perf-revert-study/data/
 reverted-perf-prs/data/
 
 # Interrupted atomic writes and local locks

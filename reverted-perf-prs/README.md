@@ -322,6 +322,8 @@ flag of 3:
 | SGLang #3613 | silent | not silent | the reports are exceptions in CUDA graph capture |
 | SGLang #37376 | silent | not silent | a speed test failed on the acceptance length; the outputs were not wrong |
 
+The earlier study's coding and README now use these corrected codes, and its README notes the change.
+
 ## Limits
 
 - **One coder.** One coder, with AI assistance, wrote the records. 73 records have high confidence, 26
